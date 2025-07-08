@@ -5,7 +5,7 @@ Befehl: **`/economy remove`**
 Optionen:
 - **`user:`**  
   Der Nutzer welchem das Geld entzogen werden soll.
-- **`amount`**  
+- **`amount:`**  
   Der Betrag welcher entfernt werden soll.
 
 <u>Beschreibung:</u>  

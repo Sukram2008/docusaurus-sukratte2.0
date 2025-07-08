@@ -53,30 +53,30 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Roles-Befehle',
+              label: 'Rollen-Befehle',
               link: {
                 type: 'generated-index',
                 title: 'Befehle zur Rollenverwaltung',
                 description: 'Befehle zum Vergeben und Entfernen von Rollen.',
-                slug: '/category/discord-befehle/admin-tools/roles-befehle',
+                slug: '/category/discord-befehle/admin-tools/rollen-befehle',
               },
               items: [
-                'discord-befehle/Admin Tools/Roles-Befehle/RolesGive',
-                'discord-befehle/Admin Tools/Roles-Befehle/RolesRemove',
-                'discord-befehle/Admin Tools/Roles-Befehle/RolesStatus',
+                'discord-befehle/Admin Tools/Rollen-Befehle/RolesGive',
+                'discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove',
+                'discord-befehle/Admin Tools/Rollen-Befehle/RolesStatus',
               ],
             },
             {
               type: 'category',
-              label: 'Steal-Befehle',
+              label: 'Extra-Befehle',
               link: {
                 type: 'generated-index',
-                title: 'Steal Befehle Übersicht',
+                title: 'Extra Befehle Übersicht',
                 description: 'Befehle zum Stehlen von Emojis und Stickern.',
-                slug: '/category/discord-befehle/admin-tools/steal-befehle',
+                slug: '/category/discord-befehle/admin-tools/extra-befehle',
               },
               items: [
-                'discord-befehle/Admin Tools/Steal-Befehle/Stealemote',
+                'discord-befehle/Admin Tools/Extra-Befehle/Stealemote',
               ],
             },
           ],
@@ -159,10 +159,10 @@ const sidebars = {
         // --- KATEGORIE: Economy --- (Pfade an tatsächliche Ordnernamen angepasst: 'Economy System')
         {
           type: 'category',
-          label: 'Economy',
+          label: 'Economy/Wirtschaft',
           link: {
             type: 'generated-index',
-            title: 'Economy Übersicht',
+            title: 'Economy/Wirtschaft Übersicht',
             description: 'Alle Befehle zum Wirtschaft bzw. Economy System.',
             slug: '/category/discord-befehle/economy',
           },
@@ -210,6 +210,37 @@ const sidebars = {
                 'discord-befehle/Economy System/Shop-Befehle/ShopList',
               ],
             },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Gewinnspiel',
+          link: {
+            type: 'generated-index',
+            title: 'Gewinnspiel',
+            description: 'Hier die Infos zu Gewinnspiel-Befehlen.',
+            slug: '/category/discord-befehle/gewinnspiele',
+          },
+          items: [
+            'discord-befehle/Gewinnspiele/GMessages',
+            'discord-befehle/Gewinnspiele/GmanageStart',
+            'discord-befehle/Gewinnspiele/GmanageEnd',
+            'discord-befehle/Gewinnspiele/GmanageReroll',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Errate die Nummer',
+          link: {
+            type: 'generated-index',
+            title: 'Errate die Nummer',
+            description: 'Infos zum Errate die Nummer Spiel.',
+            slug: '/category/discord-befehle/errate die nummer',
+          },
+          items: [
+            'discord-befehle/Errate die Nummer/GuessCreate',
+            'discord-befehle/Errate die Nummer/GuessEnd',
+            'discord-befehle/Errate die Nummer/GuessStatus',
           ],
         },
       ],
