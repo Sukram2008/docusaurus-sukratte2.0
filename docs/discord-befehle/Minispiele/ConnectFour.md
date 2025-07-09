@@ -11,5 +11,5 @@ Optionen:
 <u>Beschreibung:</u>  
 Mit dem Befehl wird der Nutzer angefragt gegen dich Vier gewinnt zu spielen.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
 Alle Nutzer.

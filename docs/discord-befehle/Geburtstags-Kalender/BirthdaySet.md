@@ -12,6 +12,8 @@ Optionen:
 
 <u>Beschreibung:</u>  
 Mit dem Befehl könnt ihr euren Geburtstag setzen.
+:::warning Falsche Angaben sind verboten!
+:::
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
 Alle Nutzer.

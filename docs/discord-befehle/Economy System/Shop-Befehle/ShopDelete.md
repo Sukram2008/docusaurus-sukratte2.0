@@ -11,5 +11,6 @@ Optionen:
 <u>Beschreibung:</u>  
  Ein Item aus dem Shop entfernen und löschen.
 
-<u>Berechtigungen</u>  
- Nur Administratoren (Owner) können diesen Befehl nutzen.
+<u>Berechtigungen:</u>  
+  Nur eingerichtete Nutzer können den Befehl nutzen.  
+  <u>Eingetragene Nutzer</u>: **Sukram2.0**

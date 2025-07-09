@@ -92,8 +92,8 @@ const sidebars = {
             slug: '/category/discord-befehle/afk-system',
           },
           items: [
-            'discord-befehle/AFK-System/AFK-Befehle/AFKEnd',
-            'discord-befehle/AFK-System/AFK-Befehle/AFKStart',
+            'discord-befehle/AFK-System/AFKEnd',
+            'discord-befehle/AFK-System/AFKStart',
           ],
         },
         // --- KATEGORIE: Bewerbungen ---
@@ -208,6 +208,52 @@ const sidebars = {
                 'discord-befehle/Economy System/Shop-Befehle/ShopBuy',
                 'discord-befehle/Economy System/Shop-Befehle/ShopDelete',
                 'discord-befehle/Economy System/Shop-Befehle/ShopList',
+              ],
+            },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Fun-Befehle',
+          link: {
+            type: 'generated-index',
+            title: 'Fun-Befehle',
+            description: 'Alle lustigen Befehle um noch mehr Spaß zu haben.',
+            slug: '/category/discord-befehle/fun-befehle',
+          },
+          items: [
+            {
+              type: 'category',
+              label: 'Interaktions-Befehle',
+              link: {
+                type: 'generated-index',
+                title: 'Interaktions-Befehle',
+                description: 'Befehle mit dennen du mit andere interagierst bzw. markierst.',
+                slug: '/category/discord-befehle/fun-befehle/interaktions-befehle',
+              },
+              items: [
+                'discord-befehle/Fun-Befehle/Interaktions-Befehle/FunHug',
+                'discord-befehle/Fun-Befehle/Interaktions-Befehle/FunKiss',
+                'discord-befehle/Fun-Befehle/Interaktions-Befehle/FunPat',
+                'discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Random-Befehle',
+              link: {
+                type: 'generated-index',
+                title: 'Random-Befehle',
+                description: 'Befehle mit dennen du bestimmte Sachen dem Zufall überläst.',
+                slug: '/category/discord-befehle/fun-befehle/random-befehle',
+              },
+              items: [
+                // HIER SIND DIE PFADE KORRIGIERT WORDEN!
+                'discord-befehle/Fun-Befehle/Random-Befehle/Random8Ball',
+                'discord-befehle/Fun-Befehle/Random-Befehle/RandomCoinflip',
+                'discord-befehle/Fun-Befehle/Random-Befehle/RandomDice',
+                'discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name',
+                'discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber',
               ],
             },
           ],

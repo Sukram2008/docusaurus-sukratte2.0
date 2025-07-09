@@ -9,5 +9,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Mit dem Befehl kann ein Emoji von einem anderem Server nehmen und auf den Server holen.
 
-<u>Berechtigungen</u>  
- Nur Administratoren (Owner) können diesen Befehl nutzen.
+<u>Berechtigungen:</u>  
+  Nur Owner können den Befehl nutzen.

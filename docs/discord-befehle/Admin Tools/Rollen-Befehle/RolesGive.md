@@ -13,5 +13,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Mit dem Befehl kann einem Nutzer eine Rolle (temporär) gegeben werden.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Nur Administratoren (Owner) können diesen Befehl nutzen.

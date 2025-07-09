@@ -11,5 +11,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Zeige dir den aktuellen Status an und damit alle Infos zu laufenen Runde.
 
-<u>Berechtigungen</u>  
-Nur Administratoren (Owner) können diesen Befehl nutzen.
+<u>Berechtigungen:</u>  
+Nur Nutzer mit der `@🤔| Zahl erraten` können den Befehl nutzen.

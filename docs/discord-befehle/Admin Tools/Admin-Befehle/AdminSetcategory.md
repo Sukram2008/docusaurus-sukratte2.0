@@ -11,5 +11,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Mit dem Befehl kann ein Kanal in eine (andere) Kategorie verschoben werden.
 
-<u>Berechtigungen</u>  
- Nur Administratoren (Owner) können diesen Befehl nutzen.
+<u>Berechtigungen:</u>  
+  Nur Owner können den Befehl nutzen.

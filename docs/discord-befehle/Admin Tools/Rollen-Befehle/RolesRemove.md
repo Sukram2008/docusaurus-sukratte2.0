@@ -13,5 +13,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Mit dem Befehl kann einem Nutzer eine Rolle (temporär) entfernt werden.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Nur Administratoren (Owner) können diesen Befehl nutzen.

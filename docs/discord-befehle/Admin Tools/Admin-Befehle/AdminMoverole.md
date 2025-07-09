@@ -11,5 +11,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Mit dem Befehl kann man Rollen verschieben.
 
-<u>Berechtigungen</u>  
- Nur Administratoren (Owner) können diesen Befehl nutzen.
+<u>Berechtigungen:</u>  
+  Nur Owner können den Befehl nutzen.

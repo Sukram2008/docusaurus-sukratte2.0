@@ -9,5 +9,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Hebe dein Geld vom Economy System ab.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Alle Nutzer, die Geld verdient haben.

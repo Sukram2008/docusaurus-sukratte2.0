@@ -9,5 +9,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Einem Nutzer einen bestimmten Betrag entfernen, aber nur aus der Balance nicht von der Bank.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Alle Nutzer.

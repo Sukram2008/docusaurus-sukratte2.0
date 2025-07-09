@@ -5,5 +5,5 @@ Befehl: **`/shop list`**
 <u>Beschreibung:</u>  
  Listet alle verfügbaren Artikel auf.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Alle Nutzer.

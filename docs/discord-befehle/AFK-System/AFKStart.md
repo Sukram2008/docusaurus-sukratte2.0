@@ -11,5 +11,5 @@ Optionen:
 <u>Beschreibung:</u>  
 Mit dem Befehl kann man eine AFK-Sitzung starten um anderen mitzuteilen das man nicht da ist.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
 Alle Nutzer.

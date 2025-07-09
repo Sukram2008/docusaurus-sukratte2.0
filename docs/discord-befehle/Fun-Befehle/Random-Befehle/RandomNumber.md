@@ -10,6 +10,8 @@ Optionen:
 
 <u>Beschreibung:</u>  
  Man kann sich eine Zufällig Zahl sagen lassen.
+:::tip Wenn du ein Minimum über 42 angibst, gebe am besten auch ein Maximum an.
+:::
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Alle Nutzer.

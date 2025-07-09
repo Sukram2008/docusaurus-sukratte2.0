@@ -9,5 +9,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Zeige dir von dirn oder einem Nutzer den Kontostand vom Economy System an.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
 Alle Nutzer.

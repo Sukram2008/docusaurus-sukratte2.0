@@ -8,6 +8,8 @@ Optionen:
 
 <u>Beschreibung:</u>  
  Man kann einen anderen Nutzer tästscheln.
+:::warning Übermässige Nutzung ist verboten!
+:::
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Alle Nutzer.

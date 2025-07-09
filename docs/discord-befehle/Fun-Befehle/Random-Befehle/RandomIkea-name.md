@@ -9,5 +9,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Einen zufälligen IKEA-Namen anzeigen lassen.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Alle Nutzer.

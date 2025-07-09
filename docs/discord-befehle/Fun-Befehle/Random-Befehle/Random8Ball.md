@@ -5,5 +5,5 @@ Befehl: **`/random 8ball`**
 <u>Beschreibung:</u>  
  Generiert dir eine Antwort auf Ja/Nein-Fragen.
 
-<u>Berechtigungen</u>  
+<u>Berechtigungen:</u>  
  Alle Nutzer.

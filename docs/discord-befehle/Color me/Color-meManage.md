@@ -13,5 +13,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Mit diesem Befehl kannst du dir deine Eigene Rolle als Server Booster erstellen.
 
-<u>Berechtigungen</u>  
- Nutzer welche den Server geboostet haben oder Level 100 erreicht haben.
+<u>Berechtigungen:</u>  
+ Nuter die den Server boosten (Server Booster) oder Level 100 erreicht haben.

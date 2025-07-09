@@ -11,5 +11,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Man kann einen anderen Nutzer umarmen.
 
-<u>Berechtigungen</u>  
-Nur Adminstratoren können diesen Befehl verwenden.
+<u>Berechtigungen:</u>  
+  Nur Owner und Mods können den Befehl nutzen.

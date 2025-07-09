@@ -23,5 +23,5 @@ Optionen:
 <u>Beschreibung:</u>  
  Hier mit kann man ein Gewinnspiel starten.
 
-<u>Berechtigungen</u>  
-Nur Adminstratoren können diesen Befehl verwenden.
+<u>Berechtigungen:</u>  
+  Nur Owner und Mods können den Befehl nutzen.

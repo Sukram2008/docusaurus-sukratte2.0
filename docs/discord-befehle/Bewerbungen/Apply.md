@@ -9,5 +9,5 @@ Optionen:
 <u>Beschreibung:</u>  
 Mit dem Befehl kann man den Bewerbungsprozess starten.
 
-<u>Berechtigungen</u>  
-Alle Nutzer, aber die DMs vom Bot sollten erlaubt sein (Artikel 9.2)
+<u>Berechtigungen:</u>  
+Alle Nutzer, aber die DMs vom Bot müssen erlaubt sein (Artikel 9.2).
