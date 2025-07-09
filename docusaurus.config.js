@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://Sukram2008.github.io', // Korrigiert auf deine GitHub Pages Basis-URL
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docusaurus-sukratte2.0/', // Korrigiert auf deinen Repository-Namen mit Slashes
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Sukram2008', // Korrigiert auf deinen GitHub-Benutzernamen
+  projectName: 'docusaurus-sukratte2.0', // Korrigiert auf deinen Repository-Namen
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website', // Korrigiert auf dein Repo und den Pfad zur Docusaurus-Installation
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website', // Korrigiert auf dein Repo und den Pfad zur Docusaurus-Installation
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Discord Befehle',
-                to: '/docs/intro',
+                to: 'docs/category/discord-befehle',
               },
             ],
           },
