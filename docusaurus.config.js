@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SukRatte2.0 - Hilfe',
+  title: 'SukRatte2.0 -  Hilfe',
   tagline: 'Hier findet ihr Hilfen für unseren Discord!',
   favicon: 'img/favicon.ico',
 
