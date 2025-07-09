@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/AFK-System/AFKEnd",
+  "title": "⏹️🕒 | AFK-Sitzung beenden",
+  "description": "Befehl: /afk end",
+  "source": "@site/docs/discord-befehle/AFK-System/AFKEnd.md",
+  "sourceDirName": "discord-befehle/AFK-System",
+  "slug": "/discord-befehle/AFK-System/AFKEnd",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKEnd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/AFK-System/AFKEnd.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AFK System",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/afk-system"
+  },
+  "next": {
+    "title": "⏸️📅 | Neue AFK-Sitzung starten",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKStart"
+  }
+}

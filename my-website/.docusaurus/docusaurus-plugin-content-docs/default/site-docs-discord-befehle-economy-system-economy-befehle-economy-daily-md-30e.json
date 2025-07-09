@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Economy System/Economy-Befehle/EconomyDaily",
+  "title": "🎁💸 | Täglicher Bonus",
+  "description": "Befehl: /economy daily",
+  "source": "@site/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDaily.md",
+  "sourceDirName": "discord-befehle/Economy System/Economy-Befehle",
+  "slug": "/discord-befehle/Economy System/Economy-Befehle/EconomyDaily",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDaily",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDaily.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🕵️‍♂️💰 | Verbrechen begehen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyCrime"
+  },
+  "next": {
+    "title": "⬆️💸 | Konto aufladen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDeposit"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Economy System/Shop-Befehle/ShopAdd",
+  "title": "🛍️➕ | Artikel im Shop hinzufügen",
+  "description": "Befehl: /shop add",
+  "source": "@site/docs/discord-befehle/Economy System/Shop-Befehle/ShopAdd.md",
+  "sourceDirName": "discord-befehle/Economy System/Shop-Befehle",
+  "slug": "/discord-befehle/Economy System/Shop-Befehle/ShopAdd",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopAdd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Economy System/Shop-Befehle/ShopAdd.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Shop-Befehle",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy-system/shop-befehle"
+  },
+  "next": {
+    "title": "🛍️🛒 | Artikel kaufen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopBuy"
+  }
+}

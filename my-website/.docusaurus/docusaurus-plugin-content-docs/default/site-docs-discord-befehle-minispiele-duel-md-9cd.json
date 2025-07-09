@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Minispiele/Duel",
+  "title": "⚔️🗨️ | Duell starten",
+  "description": "Befehl: /duel",
+  "source": "@site/docs/discord-befehle/Minispiele/Duel.md",
+  "sourceDirName": "discord-befehle/Minispiele",
+  "slug": "/discord-befehle/Minispiele/Duel",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Minispiele/Duel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Minispiele/Duel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎲🧩 | Vier gewinnt spielen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Minispiele/ConnectFour"
+  },
+  "next": {
+    "title": "Economy/Wirtschaft",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name",
+  "title": "🇸🇪🛋️ | IKEA-Name: Generiert einen zufälligen IKEA-Namen",
+  "description": "Befehl: /random ikea-name",
+  "source": "@site/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name.md",
+  "sourceDirName": "discord-befehle/Fun-Befehle/Random-Befehle",
+  "slug": "/discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎲🎯 | Würfel: Würfle",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomDice"
+  },
+  "next": {
+    "title": "🔢❓ | Zahl: Sagt dir eine zufällige Zahl",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber"
+  }
+}

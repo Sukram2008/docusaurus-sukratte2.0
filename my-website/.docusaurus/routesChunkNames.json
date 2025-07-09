@@ -1,0 +1,505 @@
+{
+  "/docusaurus-sukratte2.0/blog-ebe": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "ee3489a3"
+  },
+  "/docusaurus-sukratte2.0/blog/archive-df2": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "0f37a106"
+  },
+  "/docusaurus-sukratte2.0/blog/authors-04a": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "139959cf"
+  },
+  "/docusaurus-sukratte2.0/blog/authors/all-sebastien-lorber-articles-9b2": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "97192d88"
+  },
+  "/docusaurus-sukratte2.0/blog/authors/yangshun-a56": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "f1b9e1d8"
+  },
+  "/docusaurus-sukratte2.0/blog/first-blog-post-8ff": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/docusaurus-sukratte2.0/blog/long-blog-post-c04": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/docusaurus-sukratte2.0/blog/mdx-blog-post-0f8": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/docusaurus-sukratte2.0/blog/tags-066": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "ea5c11a2"
+  },
+  "/docusaurus-sukratte2.0/blog/tags/docusaurus-5bf": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "7237acfc"
+  },
+  "/docusaurus-sukratte2.0/blog/tags/facebook-f60": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "49772ed3"
+  },
+  "/docusaurus-sukratte2.0/blog/tags/hello-1be": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "5372105c"
+  },
+  "/docusaurus-sukratte2.0/blog/tags/hola-3b1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "87714010"
+  },
+  "/docusaurus-sukratte2.0/blog/welcome-411": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/docusaurus-sukratte2.0/markdown-page-69a": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/docusaurus-sukratte2.0/docs-5d1": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docusaurus-sukratte2.0/docs-949": {
+    "__comp": "a7bd4aaa",
+    "__props": "2ea7a821"
+  },
+  "/docusaurus-sukratte2.0/docs-5f1": {
+    "__comp": "a94703ab"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle-0c0": {
+    "__comp": "14eb3368",
+    "__props": "ddb3bdee"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools-906": {
+    "__comp": "14eb3368",
+    "__props": "bbf1111c"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/admin-befehle-3ce": {
+    "__comp": "14eb3368",
+    "__props": "a7ada0cf"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/extra-befehle-41a": {
+    "__comp": "14eb3368",
+    "__props": "c96a06ec"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/rollen-befehle-7f9": {
+    "__comp": "14eb3368",
+    "__props": "e1649da8"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/afk-system-6b0": {
+    "__comp": "14eb3368",
+    "__props": "08026bba"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/bewerbungen-93b": {
+    "__comp": "14eb3368",
+    "__props": "2f26261f"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/color-me-688": {
+    "__comp": "14eb3368",
+    "__props": "72157fa4"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy-4b7": {
+    "__comp": "14eb3368",
+    "__props": "e43a98bf"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy-system/economy-befehle-131": {
+    "__comp": "14eb3368",
+    "__props": "f794195d"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy-system/shop-befehle-af6": {
+    "__comp": "14eb3368",
+    "__props": "8535ae4c"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/errate die nummer-d80": {
+    "__comp": "14eb3368",
+    "__props": "8bd98e22"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/fun-befehle-f74": {
+    "__comp": "14eb3368",
+    "__props": "2f98c650"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/fun-befehle/interaktions-befehle-154": {
+    "__comp": "14eb3368",
+    "__props": "98264f1d"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/fun-befehle/random-befehle-a05": {
+    "__comp": "14eb3368",
+    "__props": "2b83ef9f"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/geburtstags-kalender-fb5": {
+    "__comp": "14eb3368",
+    "__props": "7247ab79"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/gewinnspiele-07f": {
+    "__comp": "14eb3368",
+    "__props": "694271cd"
+  },
+  "/docusaurus-sukratte2.0/docs/category/discord-befehle/minispiele-dbd": {
+    "__comp": "14eb3368",
+    "__props": "845e5298"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminMovechannel-fb0": {
+    "__comp": "17896441",
+    "content": "2e6af59b"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminMoverole-541": {
+    "__comp": "17896441",
+    "content": "fb900f64"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory-5d9": {
+    "__comp": "17896441",
+    "content": "3961c15c"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Extra-Befehle/Stealemote-8cd": {
+    "__comp": "17896441",
+    "content": "771e67ec"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesGive-053": {
+    "__comp": "17896441",
+    "content": "5d6bf774"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove-a7d": {
+    "__comp": "17896441",
+    "content": "50978e42"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesStatus-d44": {
+    "__comp": "17896441",
+    "content": "524e618e"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKEnd-a26": {
+    "__comp": "17896441",
+    "content": "be018f90"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKStart-a59": {
+    "__comp": "17896441",
+    "content": "f20c610b"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Bewerbungen/Apply-523": {
+    "__comp": "17896441",
+    "content": "a6af2786"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Color me/Color-meManage-f44": {
+    "__comp": "17896441",
+    "content": "2acf440d"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Color me/Color-meRemove-72a": {
+    "__comp": "17896441",
+    "content": "5e65cc67"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyAdd-ee0": {
+    "__comp": "17896441",
+    "content": "40f93b99"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyBalance-da6": {
+    "__comp": "17896441",
+    "content": "70b505b8"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyCrime-3fa": {
+    "__comp": "17896441",
+    "content": "53350d9d"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDaily-dc4": {
+    "__comp": "17896441",
+    "content": "30efebbb"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDeposit-b98": {
+    "__comp": "17896441",
+    "content": "2a71ef72"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDestroy-d65": {
+    "__comp": "17896441",
+    "content": "fb5c75a9"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDropDisable-f63": {
+    "__comp": "17896441",
+    "content": "3995b2ac"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDropEnable-722": {
+    "__comp": "17896441",
+    "content": "2b22c038"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRemove-a2b": {
+    "__comp": "17896441",
+    "content": "8d5c64cd"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRob-66f": {
+    "__comp": "17896441",
+    "content": "597d0a55"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomySet-4e9": {
+    "__comp": "17896441",
+    "content": "b7ae309c"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWeekly-79c": {
+    "__comp": "17896441",
+    "content": "1ca3f550"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw-bb5": {
+    "__comp": "17896441",
+    "content": "581a885f"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWork-b5d": {
+    "__comp": "17896441",
+    "content": "d5991fe3"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopAdd-fd7": {
+    "__comp": "17896441",
+    "content": "dd7b5888"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopBuy-75b": {
+    "__comp": "17896441",
+    "content": "c147886e"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopDelete-49f": {
+    "__comp": "17896441",
+    "content": "06ebe89f"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopList-67c": {
+    "__comp": "17896441",
+    "content": "8d90389b"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessCreate-fea": {
+    "__comp": "17896441",
+    "content": "0277b21b"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessEnd-fa8": {
+    "__comp": "17896441",
+    "content": "e9c68b82"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessStatus-bd4": {
+    "__comp": "17896441",
+    "content": "1fbf4379"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunHug-9c9": {
+    "__comp": "17896441",
+    "content": "f6516663"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunKiss-3b2": {
+    "__comp": "17896441",
+    "content": "50ffb269"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunPat-88f": {
+    "__comp": "17896441",
+    "content": "b03864d8"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap-228": {
+    "__comp": "17896441",
+    "content": "c96a5535"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/Random8Ball-d16": {
+    "__comp": "17896441",
+    "content": "ae26f76e"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomCoinflip-ec8": {
+    "__comp": "17896441",
+    "content": "9d6447f7"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomDice-00e": {
+    "__comp": "17896441",
+    "content": "6878cf52"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name-6e9": {
+    "__comp": "17896441",
+    "content": "74d409b3"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber-c06": {
+    "__comp": "17896441",
+    "content": "c132f266"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdayDelete-316": {
+    "__comp": "17896441",
+    "content": "ab24bde7"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdaySet-93e": {
+    "__comp": "17896441",
+    "content": "cfe3eeb4"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdayStatus-d53": {
+    "__comp": "17896441",
+    "content": "e3173a98"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GmanageEnd-d30": {
+    "__comp": "17896441",
+    "content": "d49add43"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GmanageReroll-0c5": {
+    "__comp": "17896441",
+    "content": "56b013db"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GmanageStart-847": {
+    "__comp": "17896441",
+    "content": "5be8bc7e"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GMessages-490": {
+    "__comp": "17896441",
+    "content": "9d2f146a"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Minispiele/ConnectFour-59c": {
+    "__comp": "17896441",
+    "content": "de99f858"
+  },
+  "/docusaurus-sukratte2.0/docs/discord-befehle/Minispiele/Duel-f3f": {
+    "__comp": "17896441",
+    "content": "9cd8443c"
+  },
+  "/docusaurus-sukratte2.0/-67c": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Geburtstags-Kalender/BirthdayDelete",
+  "title": "🎂❌ | Geburtstag entfernen",
+  "description": "Befehl: /birthday delete",
+  "source": "@site/docs/discord-befehle/Geburtstags-Kalender/BirthdayDelete.md",
+  "sourceDirName": "discord-befehle/Geburtstags-Kalender",
+  "slug": "/discord-befehle/Geburtstags-Kalender/BirthdayDelete",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdayDelete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Geburtstags-Kalender/BirthdayDelete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Geburtstags-Kalender",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/geburtstags-kalender"
+  },
+  "next": {
+    "title": "🎂📅 | Geburtstag setzen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdaySet"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Admin Tools/Rollen-Befehle/RolesGive",
+  "title": "🎭🔖 | Rolle zuweisen",
+  "description": "Befehl: /roles give",
+  "source": "@site/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesGive.md",
+  "sourceDirName": "discord-befehle/Admin Tools/Rollen-Befehle",
+  "slug": "/discord-befehle/Admin Tools/Rollen-Befehle/RolesGive",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesGive",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesGive.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rollen-Befehle",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/rollen-befehle"
+  },
+  "next": {
+    "title": "🎭❌ | Rolle entfernen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory",
+  "title": "📂📋 | Kanal in Kategorie verschieben",
+  "description": "Befehl: /admin setcategory",
+  "source": "@site/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory.md",
+  "sourceDirName": "discord-befehle/Admin Tools/Admin-Befehle",
+  "slug": "/discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔄🏷️ | Rollenposition ändern",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminMoverole"
+  },
+  "next": {
+    "title": "Rollen-Befehle",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/rollen-befehle"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/AFK-System/AFKStart",
+  "title": "⏸️📅 | Neue AFK-Sitzung starten",
+  "description": "Befehl: /afk start",
+  "source": "@site/docs/discord-befehle/AFK-System/AFKStart.md",
+  "sourceDirName": "discord-befehle/AFK-System",
+  "slug": "/discord-befehle/AFK-System/AFKStart",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKStart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/AFK-System/AFKStart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⏹️🕒 | AFK-Sitzung beenden",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKEnd"
+  },
+  "next": {
+    "title": "Bewerbungen",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/bewerbungen"
+  }
+}
