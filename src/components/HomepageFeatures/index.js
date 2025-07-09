@@ -28,7 +28,7 @@ const FeatureList = [
     description: (
       <>
         Der Server wird von 3 Ownern geleitet, dazu haben wir noch ein fantastisches Team bestehend aus
-        Mods, Supportern uvm.! Falls ihr auch Interesse habt kann man sich auf dem Discord bewerben.
+        Mods, Supportern uvm.! Falls ihr auch Interesse habt kann man sich auf dem Discord <a href="https://sukram2008.github.io/docusaurus-sukratte2.0/docs/discord-befehle/Bewerbungen/Apply">bewerben</a>.
       </>
     ),
   },
