@@ -53,14 +53,15 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Rollen-Befehle',
+              label: 'Rollen-Befehle', // <-- HIER AN "Rollen-Befehle" ANGEPASST!
               link: {
                 type: 'generated-index',
                 title: 'Befehle zur Rollenverwaltung',
                 description: 'Befehle zum Vergeben und Entfernen von Rollen.',
-                slug: '/category/discord-befehle/admin-tools/rollen-befehle',
+                slug: '/category/discord-befehle/admin-tools/rollen-befehle', // <-- HIER AN "rollen-befehle" ANGEPASST!
               },
               items: [
+                // <-- PFADE HIER AN "Rollen-Befehle" ANGEPASST!
                 'discord-befehle/Admin Tools/Rollen-Befehle/RolesGive',
                 'discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove',
                 'discord-befehle/Admin Tools/Rollen-Befehle/RolesStatus',
@@ -68,14 +69,15 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Extra-Befehle',
+              label: 'Extra-Befehle', // <-- HIER AN "Extra-Befehle" ANGEPASST!
               link: {
                 type: 'generated-index',
                 title: 'Extra Befehle Übersicht',
                 description: 'Befehle zum Stehlen von Emojis und Stickern.',
-                slug: '/category/discord-befehle/admin-tools/extra-befehle',
+                slug: '/category/discord-befehle/admin-tools/extra-befehle', // <-- HIER AN "extra-befehle" ANGEPASST!
               },
               items: [
+                // <-- PFADE HIER AN "Extra-Befehle" ANGEPASST!
                 'discord-befehle/Admin Tools/Extra-Befehle/Stealemote',
               ],
             },
@@ -92,6 +94,7 @@ const sidebars = {
             slug: '/category/discord-befehle/afk-system',
           },
           items: [
+            // <-- PFADE HIER GEKÜRZT, DA DIE MD-DATEIEN DIREKT IM AFK-System ORDNER SIND!
             'discord-befehle/AFK-System/AFKEnd',
             'discord-befehle/AFK-System/AFKStart',
           ],
@@ -156,7 +159,7 @@ const sidebars = {
             'discord-befehle/Minispiele/Duel',
           ],
         },
-        // --- KATEGORIE: Economy --- (Pfade an tatsächliche Ordnernamen angepasst: 'Economy System')
+        // --- KATEGORIE: Economy ---
         {
           type: 'category',
           label: 'Economy/Wirtschaft',
@@ -203,7 +206,6 @@ const sidebars = {
                 slug: '/category/discord-befehle/economy-system/shop-befehle',
               },
               items: [
-                // HIER SIND DIE PFADE KORRIGIERT WORDEN!
                 'discord-befehle/Economy System/Shop-Befehle/ShopAdd',
                 'discord-befehle/Economy System/Shop-Befehle/ShopBuy',
                 'discord-befehle/Economy System/Shop-Befehle/ShopDelete',
@@ -248,7 +250,6 @@ const sidebars = {
                 slug: '/category/discord-befehle/fun-befehle/random-befehle',
               },
               items: [
-                // HIER SIND DIE PFADE KORRIGIERT WORDEN!
                 'discord-befehle/Fun-Befehle/Random-Befehle/Random8Ball',
                 'discord-befehle/Fun-Befehle/Random-Befehle/RandomCoinflip',
                 'discord-befehle/Fun-Befehle/Random-Befehle/RandomDice',

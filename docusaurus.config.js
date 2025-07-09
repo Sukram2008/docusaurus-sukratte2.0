@@ -47,6 +47,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: './my-website/docs', // <--- DIESE ZEILE WURDE HINZUGEFÜGT/ANGEPASST!
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -69,7 +70,7 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './my-website/src/css/custom.css', // <-- DIESEN PFAD ÄNDERN!
         },
       }),
     ],
