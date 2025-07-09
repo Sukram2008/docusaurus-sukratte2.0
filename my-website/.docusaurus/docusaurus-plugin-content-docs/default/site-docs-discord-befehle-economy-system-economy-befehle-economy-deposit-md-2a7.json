@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Economy System/Economy-Befehle/EconomyDeposit",
+  "title": "⬆️💸 | Konto aufladen",
+  "description": "Befehl: /economy deposit",
+  "source": "@site/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDeposit.md",
+  "sourceDirName": "discord-befehle/Economy System/Economy-Befehle",
+  "slug": "/discord-befehle/Economy System/Economy-Befehle/EconomyDeposit",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDeposit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDeposit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎁💸 | Täglicher Bonus",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDaily"
+  },
+  "next": {
+    "title": "☢️💸 | Wirtschaft zurücksetzen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDestroy"
+  }
+}

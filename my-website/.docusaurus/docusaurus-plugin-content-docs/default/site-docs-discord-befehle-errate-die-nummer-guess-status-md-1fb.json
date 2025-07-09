@@ -1,0 +1,20 @@
+{
+  "id": "discord-befehle/Errate die Nummer/GuessStatus",
+  "title": "💰➕ | Geld hinzufügen",
+  "description": "Befehl: /economy add",
+  "source": "@site/docs/discord-befehle/Errate die Nummer/GuessStatus.md",
+  "sourceDirName": "discord-befehle/Errate die Nummer",
+  "slug": "/discord-befehle/Errate die Nummer/GuessStatus",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessStatus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Errate die Nummer/GuessStatus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔢🛑 | Zahl erraten Spiel beenden",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessEnd"
+  }
+}

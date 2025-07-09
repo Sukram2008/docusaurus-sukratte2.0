@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw",
+  "title": "💰🏧 | Geld abheben",
+  "description": "Befehl: /economy withdraw",
+  "source": "@site/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw.md",
+  "sourceDirName": "discord-befehle/Economy System/Economy-Befehle",
+  "slug": "/discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📅💎 | Wöchentlicher Bonus",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWeekly"
+  },
+  "next": {
+    "title": "👷‍♀️💲 | Arbeiten",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWork"
+  }
+}

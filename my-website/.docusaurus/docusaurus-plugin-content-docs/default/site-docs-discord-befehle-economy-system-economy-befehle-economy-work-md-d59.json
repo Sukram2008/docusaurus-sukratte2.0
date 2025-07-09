@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Economy System/Economy-Befehle/EconomyWork",
+  "title": "👷‍♀️💲 | Arbeiten",
+  "description": "Befehl: /economy work",
+  "source": "@site/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWork.md",
+  "sourceDirName": "discord-befehle/Economy System/Economy-Befehle",
+  "slug": "/discord-befehle/Economy System/Economy-Befehle/EconomyWork",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWork",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWork.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💰🏧 | Geld abheben",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw"
+  },
+  "next": {
+    "title": "Shop-Befehle",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy-system/shop-befehle"
+  }
+}

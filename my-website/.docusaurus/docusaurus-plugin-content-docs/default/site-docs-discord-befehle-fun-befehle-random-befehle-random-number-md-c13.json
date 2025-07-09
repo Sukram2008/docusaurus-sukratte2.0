@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber",
+  "title": "🔢❓ | Zahl: Sagt dir eine zufällige Zahl",
+  "description": "Befehl: /random number",
+  "source": "@site/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber.md",
+  "sourceDirName": "discord-befehle/Fun-Befehle/Random-Befehle",
+  "slug": "/discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🇸🇪🛋️ | IKEA-Name: Generiert einen zufälligen IKEA-Namen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name"
+  },
+  "next": {
+    "title": "Gewinnspiel",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/gewinnspiele"
+  }
+}

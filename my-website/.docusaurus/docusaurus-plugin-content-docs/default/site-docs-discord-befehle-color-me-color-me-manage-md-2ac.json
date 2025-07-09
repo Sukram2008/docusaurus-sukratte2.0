@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Color me/Color-meManage",
+  "title": "🛠️✏️ | Erstelle oder Editiere deine Custom Rolle",
+  "description": "Befehl: /color-me manage",
+  "source": "@site/docs/discord-befehle/Color me/Color-meManage.md",
+  "sourceDirName": "discord-befehle/Color me",
+  "slug": "/discord-befehle/Color me/Color-meManage",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Color me/Color-meManage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Color me/Color-meManage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Color me",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/color-me"
+  },
+  "next": {
+    "title": "🗑️👋 | Entferne deine Custom Rolle",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Color me/Color-meRemove"
+  }
+}

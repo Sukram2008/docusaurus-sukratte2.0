@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Economy System/Economy-Befehle/EconomyRemove",
+  "title": "💰➖ | Geld entfernen",
+  "description": "Befehl: /economy remove",
+  "source": "@site/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRemove.md",
+  "sourceDirName": "discord-befehle/Economy System/Economy-Befehle",
+  "slug": "/discord-befehle/Economy System/Economy-Befehle/EconomyRemove",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRemove",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRemove.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💬💰 | Nachrichten-Belohnungen aktivieren",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDropEnable"
+  },
+  "next": {
+    "title": "🚨💸 | Raub begehen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRob"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docusaurus-sukratte2.0/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docusaurus-sukratte2.0/docs",
+          "mainDocId": "discord-befehle/Admin Tools/Admin-Befehle/AdminMovechannel",
+          "docs": [
+            {
+              "id": "discord-befehle/Admin Tools/Admin-Befehle/AdminMovechannel",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminMovechannel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Admin Tools/Admin-Befehle/AdminMoverole",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminMoverole",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Admin-Befehle/AdminSetcategory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Admin Tools/Extra-Befehle/Stealemote",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Extra-Befehle/Stealemote",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Admin Tools/Rollen-Befehle/RolesGive",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesGive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Admin Tools/Rollen-Befehle/RolesStatus",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesStatus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/AFK-System/AFKEnd",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKEnd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/AFK-System/AFKStart",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/AFK-System/AFKStart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Bewerbungen/Apply",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Bewerbungen/Apply",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Color me/Color-meManage",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Color me/Color-meManage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Color me/Color-meRemove",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Color me/Color-meRemove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyAdd",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyAdd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyBalance",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyBalance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyCrime",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyCrime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyDaily",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDaily",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyDeposit",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDeposit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyDestroy",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDestroy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyDropDisable",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDropDisable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyDropEnable",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyDropEnable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyRemove",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRemove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyRob",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyRob",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomySet",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomySet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyWeekly",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWeekly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWithdraw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Economy-Befehle/EconomyWork",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Economy-Befehle/EconomyWork",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Shop-Befehle/ShopAdd",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopAdd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Shop-Befehle/ShopBuy",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopBuy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Shop-Befehle/ShopDelete",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopDelete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Economy System/Shop-Befehle/ShopList",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopList",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Errate die Nummer/GuessCreate",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessCreate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Errate die Nummer/GuessEnd",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessEnd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Errate die Nummer/GuessStatus",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Errate die Nummer/GuessStatus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Interaktions-Befehle/FunHug",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunHug",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Interaktions-Befehle/FunKiss",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunKiss",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Interaktions-Befehle/FunPat",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunPat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Random-Befehle/Random8Ball",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/Random8Ball",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Random-Befehle/RandomCoinflip",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomCoinflip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Random-Befehle/RandomDice",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomDice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Geburtstags-Kalender/BirthdayDelete",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdayDelete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Geburtstags-Kalender/BirthdaySet",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdaySet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Geburtstags-Kalender/BirthdayStatus",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Geburtstags-Kalender/BirthdayStatus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Gewinnspiele/GmanageEnd",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GmanageEnd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Gewinnspiele/GmanageReroll",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GmanageReroll",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Gewinnspiele/GmanageStart",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GmanageStart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Gewinnspiele/GMessages",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GMessages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Minispiele/ConnectFour",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Minispiele/ConnectFour",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discord-befehle/Minispiele/Duel",
+              "path": "/docusaurus-sukratte2.0/docs/discord-befehle/Minispiele/Duel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/admin-tools",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/admin-tools/admin-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/admin-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/admin-tools/rollen-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/rollen-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/admin-tools/extra-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/admin-tools/extra-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/afk-system",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/afk-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/bewerbungen",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/bewerbungen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/geburtstags-kalender",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/geburtstags-kalender",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/color-me",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/color-me",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/minispiele",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/minispiele",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/economy",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/economy-system/economy-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy-system/economy-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/economy-system/shop-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/economy-system/shop-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/fun-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/fun-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/fun-befehle/interaktions-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/fun-befehle/interaktions-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/fun-befehle/random-befehle",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/fun-befehle/random-befehle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/gewinnspiele",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/gewinnspiele",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discord-befehle/errate die nummer",
+              "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle/errate die nummer",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docusaurus-sukratte2.0/docs/category/discord-befehle",
+                "label": "Discord Befehle"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

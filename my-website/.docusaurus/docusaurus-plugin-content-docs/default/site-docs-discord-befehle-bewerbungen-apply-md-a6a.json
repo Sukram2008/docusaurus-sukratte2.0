@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Bewerbungen/Apply",
+  "title": "📝🗂️ | Bewerbungsprozess starten",
+  "description": "Befehl: /apply",
+  "source": "@site/docs/discord-befehle/Bewerbungen/Apply.md",
+  "sourceDirName": "discord-befehle/Bewerbungen",
+  "slug": "/discord-befehle/Bewerbungen/Apply",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Bewerbungen/Apply",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Bewerbungen/Apply.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bewerbungen",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/bewerbungen"
+  },
+  "next": {
+    "title": "Geburtstags-Kalender",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/geburtstags-kalender"
+  }
+}

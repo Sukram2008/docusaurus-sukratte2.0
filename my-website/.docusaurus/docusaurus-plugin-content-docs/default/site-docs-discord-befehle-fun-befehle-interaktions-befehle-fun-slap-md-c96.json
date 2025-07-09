@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap",
+  "title": "🤚💢 | Nutzer schlagen",
+  "description": "Befehl: /slap",
+  "source": "@site/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap.md",
+  "sourceDirName": "discord-befehle/Fun-Befehle/Interaktions-Befehle",
+  "slug": "/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunSlap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤗👍 | Nett tätscheln",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Fun-Befehle/Interaktions-Befehle/FunPat"
+  },
+  "next": {
+    "title": "Random-Befehle",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/fun-befehle/random-befehle"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Gewinnspiele/GMessages",
+  "title": "🎁🔍 | Gewinnspiel-Nachrichten überprüfen",
+  "description": "Befehl: /gmessages",
+  "source": "@site/docs/discord-befehle/Gewinnspiele/GMessages.md",
+  "sourceDirName": "discord-befehle/Gewinnspiele",
+  "slug": "/discord-befehle/Gewinnspiele/GMessages",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GMessages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Gewinnspiele/GMessages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gewinnspiel",
+    "permalink": "/docusaurus-sukratte2.0/docs/category/discord-befehle/gewinnspiele"
+  },
+  "next": {
+    "title": "🎁🚀 | Neues Gewinnspiel starten",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Gewinnspiele/GmanageStart"
+  }
+}

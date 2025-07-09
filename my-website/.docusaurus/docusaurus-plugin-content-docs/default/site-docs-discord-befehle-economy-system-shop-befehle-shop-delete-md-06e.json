@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Economy System/Shop-Befehle/ShopDelete",
+  "title": "🛍️❌ | Artikel im Shop entfernen",
+  "description": "Befehl: /shop delete",
+  "source": "@site/docs/discord-befehle/Economy System/Shop-Befehle/ShopDelete.md",
+  "sourceDirName": "discord-befehle/Economy System/Shop-Befehle",
+  "slug": "/discord-befehle/Economy System/Shop-Befehle/ShopDelete",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopDelete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Economy System/Shop-Befehle/ShopDelete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛍️🛒 | Artikel kaufen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopBuy"
+  },
+  "next": {
+    "title": "🛍️📋 | Artikel im Shop auflisten",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Economy System/Shop-Befehle/ShopList"
+  }
+}

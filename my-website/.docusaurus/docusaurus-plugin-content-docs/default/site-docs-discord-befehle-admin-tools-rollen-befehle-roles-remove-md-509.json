@@ -1,0 +1,24 @@
+{
+  "id": "discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove",
+  "title": "🎭❌ | Rolle entfernen",
+  "description": "Befehl: /roles remove",
+  "source": "@site/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove.md",
+  "sourceDirName": "discord-befehle/Admin Tools/Rollen-Befehle",
+  "slug": "/discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove",
+  "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Sukram2008/docusaurus-sukratte2.0/tree/main/my-website/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎭🔖 | Rolle zuweisen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesGive"
+  },
+  "next": {
+    "title": "🎭🔍 | Rollenstatus anzeigen",
+    "permalink": "/docusaurus-sukratte2.0/docs/discord-befehle/Admin Tools/Rollen-Befehle/RolesStatus"
+  }
+}
