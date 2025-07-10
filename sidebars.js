@@ -15,6 +15,11 @@
 const sidebars = {
   tutorialSidebar: [
     {
+      type: 'doc',
+      id: 'intro',
+      label: 'Einleitung',
+    },
+    {
       type: 'category',
       label: 'Discord Befehle',
       link: {
@@ -53,15 +58,14 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Rollen-Befehle', // <-- HIER AN "Rollen-Befehle" ANGEPASST!
+              label: 'Rollen-Befehle',
               link: {
                 type: 'generated-index',
                 title: 'Befehle zur Rollenverwaltung',
                 description: 'Befehle zum Vergeben und Entfernen von Rollen.',
-                slug: '/category/discord-befehle/admin-tools/rollen-befehle', // <-- HIER AN "rollen-befehle" ANGEPASST!
+                slug: '/category/discord-befehle/admin-tools/rollen-befehle',
               },
               items: [
-                // <-- PFADE HIER AN "Rollen-Befehle" ANGEPASST!
                 'discord-befehle/Admin Tools/Rollen-Befehle/RolesGive',
                 'discord-befehle/Admin Tools/Rollen-Befehle/RolesRemove',
                 'discord-befehle/Admin Tools/Rollen-Befehle/RolesStatus',
@@ -69,15 +73,14 @@ const sidebars = {
             },
             {
               type: 'category',
-              label: 'Extra-Befehle', // <-- HIER AN "Extra-Befehle" ANGEPASST!
+              label: 'Extra-Befehle',
               link: {
                 type: 'generated-index',
                 title: 'Extra Befehle Übersicht',
                 description: 'Befehle zum Stehlen von Emojis und Stickern.',
-                slug: '/category/discord-befehle/admin-tools/extra-befehle', // <-- HIER AN "extra-befehle" ANGEPASST!
+                slug: '/category/discord-befehle/admin-tools/extra-befehle',
               },
               items: [
-                // <-- PFADE HIER AN "Extra-Befehle" ANGEPASST!
                 'discord-befehle/Admin Tools/Extra-Befehle/Stealemote',
               ],
             },
@@ -94,9 +97,8 @@ const sidebars = {
             slug: '/category/discord-befehle/afk-system',
           },
           items: [
-            // <-- PFADE HIER GEKÜRZT, DA DIE MD-DATEIEN DIREKT IM AFK-System ORDNER SIND!
-            'discord-befehle/AFK-System/AFKEnd',
-            'discord-befehle/AFK-System/AFKStart',
+            'discord-befehle/AFK-System/AFK-Befehle/AFKEnd',
+            'discord-befehle/AFK-System/AFK-Befehle/AFKStart',
           ],
         },
         // --- KATEGORIE: Bewerbungen ---
@@ -159,7 +161,7 @@ const sidebars = {
             'discord-befehle/Minispiele/Duel',
           ],
         },
-        // --- KATEGORIE: Economy ---
+        // --- KATEGORIE: Economy --- (Pfade an tatsächliche Ordnernamen angepasst: 'Economy System')
         {
           type: 'category',
           label: 'Economy/Wirtschaft',
@@ -206,6 +208,7 @@ const sidebars = {
                 slug: '/category/discord-befehle/economy-system/shop-befehle',
               },
               items: [
+                // HIER SIND DIE PFADE KORRIGIERT WORDEN!
                 'discord-befehle/Economy System/Shop-Befehle/ShopAdd',
                 'discord-befehle/Economy System/Shop-Befehle/ShopBuy',
                 'discord-befehle/Economy System/Shop-Befehle/ShopDelete',
@@ -216,11 +219,11 @@ const sidebars = {
         },
         {
           type: 'category',
-          label: 'Fun-Befehle',
+          label: 'Fun Befehle',
           link: {
             type: 'generated-index',
-            title: 'Fun-Befehle',
-            description: 'Alle lustigen Befehle um noch mehr Spaß zu haben.',
+            title: 'Fun Befehle Übersicht',
+            description: 'Alle Fun Befehle auf dem Server.',
             slug: '/category/discord-befehle/fun-befehle',
           },
           items: [
@@ -254,7 +257,7 @@ const sidebars = {
                 'discord-befehle/Fun-Befehle/Random-Befehle/RandomCoinflip',
                 'discord-befehle/Fun-Befehle/Random-Befehle/RandomDice',
                 'discord-befehle/Fun-Befehle/Random-Befehle/RandomIkea-name',
-                'discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber',
+                'discord-befehle/Fun-Befehle/Random-Befehle/RandomNumber',      
               ],
             },
           ],

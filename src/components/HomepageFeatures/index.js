@@ -4,31 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Community',
+    title: 'Easy to Use',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Wir freuen uns über jede neue Person in unserere Commmunity!
-        Probiert es einfach aus und kommt auf den Discord. :) 
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Design & Aufbau',
+    title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Wir möchten für jeden einen ansprechenden und "schönen" Server haben.
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: 'Leitung & Team',
+    title: 'Powered by React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Der Server wird von 3 Ownern geleitet, dazu haben wir noch ein fantastisches Team bestehend aus
-        Mods, Supportern uvm.! Falls ihr auch Interesse habt kann man sich auf dem Discord <a href="https://sukram2008.github.io/docusaurus-sukratte2.0/docs/discord-befehle/Bewerbungen/Apply">bewerben</a>.
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
       </>
     ),
   },

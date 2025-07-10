@@ -23,7 +23,7 @@ const config = {
   url: 'https://Sukram2008.github.io', // Korrigiert auf deine GitHub Pages Basis-URL
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-sukratte2.0/', // Korrigiert auf deinen Repository-Namen mit Slashes
+  baseUrl: '/docusaurus-sukratte2.0/', // KorrigierYt auf deinen Repository-Namen mit Slashes
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -47,7 +47,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: './my-website/docs', // <--- DIESE ZEILE WURDE HINZUGEFÜGT/ANGEPASST!
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -70,7 +69,7 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './my-website/src/css/custom.css', // <-- DIESEN PFAD ÄNDERN!
+          customCss: './src/css/custom.css',
         },
       }),
     ],
